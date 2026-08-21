@@ -65,24 +65,69 @@ I enjoy working with **Artificial Intelligence, Machine Learning, NLP, Generativ
 
 # 🚀 Featured Projects
 
-## 🔐 AEGIS-X — AI-Powered Cybersecurity Platform
+## 🛡️ AEGIS-X — AI-Driven Cyber Resilience Platform
 
-An AI-powered cybersecurity platform inspired by **SIEM, EDR and SOAR** for centralized threat monitoring and incident management.
+Contributed to **AEGIS-X**, an AI-driven cyber resilience platform designed to protect Critical National Infrastructure (CNI) against modern cyber threats.
 
-### Highlights
+The platform combines **Behavioral Analytics, Multi-Agent AI, Attack Graph Intelligence, Cyber Digital Twin Simulation, Enterprise Knowledge, and Explainable AI** to support proactive threat detection, analysis, prediction, and response.
 
-- 🛡️ AI-based threat detection
-- 📊 Behavioral analytics and risk scoring
-- ⚙️ REST APIs using FastAPI
-- 🔑 Role-Based Access Control (RBAC)
-- 📝 Audit logging
-- 🚨 Real-time security monitoring
-- 🧩 Modular software architecture
-- 🔒 Secure coding practices
+### 🔥 Key Features
 
-**Tech:** Python • FastAPI • PostgreSQL • REST APIs • AI/ML • JWT
+- 🤖 Multi-Agent AI Architecture
+- 🧠 Enterprise Brain for continuous learning
+- 🔍 Behavioral Anomaly Detection
+- 🌐 Enterprise Intelligence Fusion
+- 📊 Attack Graph Analysis
+- 🧬 Cyber DNA Fingerprinting
+- 🔮 Predictive Threat Intelligence
+- 🛰️ Cyber Digital Twin Simulation
+- 📖 Explainable AI (XAI)
+- 🤝 AI Council Consensus Decision Engine
+- 📈 Enterprise Risk Assessment
+- ⚡ Automated Incident Correlation
+- 📋 Business Impact Analysis
+- 📡 REST API Integration
+- 📊 Interactive Security Dashboard
+- 📝 Audit Logging
 
----
+### 🧠 Core AI Modules
+
+- **Observer AI** — Initial event analysis and context extraction
+- **Behavior AI** — Behavioral anomaly detection
+- **Correlation Engine** — Correlation of related security events
+- **Oracle AI** — Threat classification using MITRE ATT&CK
+- **Sentinel AI** — Threat validation and false-positive reduction
+- **Commander AI** — Strategic AI orchestration
+- **Enterprise Brain** — Organizational knowledge repository
+- **Attack Graph AI** — Attacker movement prediction
+- **Cyber Digital Twin** — Cyber attack simulation
+- **AI Council** — Consensus-based decision making
+- **Explainable AI** — Transparent reasoning and recommendations
+
+### 🏗️ Architecture
+
+```text
+Security Events
+      ↓
+Data Ingestion
+      ↓
+AI Processing Pipeline
+      ↓
+Behavior & Threat Analysis
+      ↓
+Threat Correlation
+      ↓
+Incident Intelligence
+      ↓
+Strategic AI Modules
+      ↓
+Attack Graph + Digital Twin
+      ↓
+AI Council
+      ↓
+Explainable Recommendations
+      ↓
+Dashboard & REST APIs
 
 ## 🎙️ Viveka AI — Qualitative Verbatim Specialist
 
